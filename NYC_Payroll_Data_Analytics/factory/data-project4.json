@@ -1,0 +1,9 @@
+{
+	"name": "data-project4",
+	"location": "japaneast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "deab72db-0362-4fe6-b644-488b455b770e",
+		"tenantId": "9b7cbd77-6d6b-4879-8aba-63d7dfb18472"
+	}
+}
